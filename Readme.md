@@ -1,4 +1,4 @@
-##### La page d'acceuil est accessible via la page index.hml
+#### La page d'acceuil est accessible via la page index.hml
 
 - Stack utilisé : HTML5, Tailwind CSS, JQUERY, JS
 - Bibliothéque JS utilisé pour le slider : swiffy-slider
@@ -14,4 +14,4 @@
 
 > Pour la derniére section 5, j'ai pensé à mettre la ancienne balise marquee, mais selon la documentation de fr.w3docs.com, il semble qu'elle n'est plus supportée par les navigateurs modernes, donc j'ai essayer de crée l'animation demandée à l'aide du CSS.
 
-##### Hicham MALKI - À trés bientôt
+#### Hicham MALKI - À trés bientôt
